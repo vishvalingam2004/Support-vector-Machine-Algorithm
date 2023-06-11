@@ -10,7 +10,7 @@ The hyperplane tries that the margin between the closest points of different cla
 The dimension of the hyperplane depends upon the number of features. If the number of input features is two, then the hyperplane is just a line. 
 If the number of input features is three, then the hyperplane becomes a 2-D plane. It becomes difficult to imagine when the number of features exceeds three.The goal of the SVM algorithm is to create the best line or decision boundary that can segregate n-dimensional space into classes so that we can easily put the new data point in the correct category in the future. 
 This best decision boundary is called a hyperplane. 
-# Advantages of SVM
+# Advantages of SVM :
 # Effective in high-dimensional cases.
 # Its memory is efficient as it uses a subset of training points in the decision function called support vectors.
 
