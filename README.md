@@ -14,4 +14,5 @@ This best decision boundary is called a hyperplane.
 # Effective in high-dimensional cases.
 # Its memory is efficient as it uses a subset of training points in the decision function called support vectors.
 
-
+# Types of SVM
+Linear SVM & Non-Linear SVM.
